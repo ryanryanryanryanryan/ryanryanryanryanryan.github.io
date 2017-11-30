@@ -34,8 +34,10 @@ li{
     padding: 0px 10px 0px 10px;
 }
 li{
-    color:#c5f4f7
     font-size: 25px
+}
+li{
+    color:#c5f4f7
 }
 header{
     text-align: center;
