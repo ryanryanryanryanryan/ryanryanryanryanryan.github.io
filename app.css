@@ -32,6 +32,8 @@ ul{
 li{
     display: inline;
     padding: 0px 10px 0px 10px;
+}
+li{
     color:#c5f4f7
     font-size: 25px
 }
