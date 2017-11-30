@@ -28,12 +28,12 @@ p{
 ul{
     font-family: 'Rokkitt', serif;
     padding: 10px;
-    color:#c5f4f7
-    font-size: 25px
 }
 li{
     display: inline;
     padding: 0px 10px 0px 10px;
+    color:#c5f4f7
+    font-size: 25px
 }
 header{
     text-align: center;
